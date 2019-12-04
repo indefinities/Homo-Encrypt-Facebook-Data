@@ -9,7 +9,7 @@ Homomorphic Encryption is an encryption scheme that allows computations to be pe
 *Purpose: To use sample Facebook datasets to conduct an experiment on the validity of homomorphic encryption.*
 
 # Usage
-Our research project utilizes the [Microsoft's PySEAL GitHub Repository](https://github.com/Lab41/PySEAL/).
+Our research project utilizes the [Lab41's PySEAL GitHub Repository](https://github.com/Lab41/PySEAL/).
 
 Docker Documentation: https://docs.docker.com/
 
