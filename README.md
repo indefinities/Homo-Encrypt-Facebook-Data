@@ -36,3 +36,5 @@ Build Python wrapper for PySEAL by running executable `build-docker.sh`
 
 Build Docker image to create a `seal` image that can be imported as a Python package: `docker build -t seal-save`
 
+Add package to local host: `docker run -t -v "path:/root/FacebookProjectHe" seal-save`
+
